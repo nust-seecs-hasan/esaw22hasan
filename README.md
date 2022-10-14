@@ -1,5 +1,8 @@
 ---
 marp: true
+theme: academic
+paginate: true
+math: katex
 ---
 
 
@@ -7,7 +10,7 @@ marp: true
 theme: gaia
 class:
  - invert
-headingDivider: 2 
+headingDivider: 2
 paginate: true
 -->
 
@@ -17,9 +20,10 @@ _class:
  - invert
 -->
 
-# about.me/hasanalikhattak
+# Fruit Disease classification using resource constraint devices
 
-This is the Website for ESAW 2022 - Day 3 Presentation by Dr. Hasan Ali Khattak
+ESAW 2022 - Day 3 Presentation by Dr. Hasan Ali Khattak
+
 
 ## What?
 
