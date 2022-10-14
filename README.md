@@ -5,19 +5,10 @@ paginate: true
 math: katex
 ---
 
-
 <!--
-theme: gaia
-class:
- - invert
+theme: academic
 headingDivider: 2
 paginate: true
--->
-
-<!--
-_class:
- - lead
- - invert
 -->
 
 # Fruit Disease classification using resource constraint devices
@@ -128,11 +119,4 @@ Send a [pull request](https://github.com/ralexander-phi/marp-to-pages) to get yo
 When you are ready to share your presentation, commit or merge to `main` and your content on GitHub Pages will automatically update.
 
 # 🎉
-<!--
-_class:
- - lead
- - invert
--->
 ### Hooray!
-
-
